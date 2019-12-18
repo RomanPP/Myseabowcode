@@ -3,4 +3,5 @@ green
 blue
 yellow
 purple
+black
 my rainbow is cool
