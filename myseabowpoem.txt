@@ -2,7 +2,7 @@ braun
 green
 blue
 yellow
-unicorm
+unicorn
 purple
 black
 my rainbow is cool with unicorn
